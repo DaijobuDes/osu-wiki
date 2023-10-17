@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 07565df669a6a61f775c959af9dd4f282b3dd3f4
+---
+
 # Comité des tournois
 
 Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'organisateurs et d'assistants compétents et reconnus dans le domaine des tournois.
@@ -5,7 +10,7 @@ Le **Comité des tournois** (*Tournament Committee* en anglais) est un groupe d'
 Leurs responsabilités comprennent :
 
 - La gestion des signalements reçus sur le [formulaire de signalement des tournois](https://pif.ephemeral.ink/tournament-reports)
-- L'observation générale des tournois ainsi que conseiller [l'équipe de support aux comptes](/wiki/People/The_Team/Account_support_team) au cas par cas.
+- L'observation générale des tournois ainsi que conseiller [l'équipe de support aux comptes](/wiki/People/Account_support_team) au cas par cas.
 - Revoir régulièrement la page [Support officiel des tournois](/wiki/Tournaments/Official_support) pour y apporter des modifications si nécessaire.
 
 Ce comité a été annoncé pour la première fois au public le 22 juillet 2021 via le canal `#tournaments` du [serveur Discord osu!dev](https://discord.com/invite/ppy) en réponse à la croissance rapide des tournois communautaires d'osu!.
@@ -19,13 +24,11 @@ Les personnes désireuses de rejoindre le comité des tournois peuvent nous fair
 ## Membres
 
 - ::{ flag=NL }:: [Albionthegreat](https://osu.ppy.sh/users/9853595)
-- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
 - ::{ flag=US }:: [ChillierPear](https://osu.ppy.sh/users/9501251)
 - ::{ flag=US }:: [D I O](https://osu.ppy.sh/users/3958619)
 - ::{ flag=AR }:: [juankristal](https://osu.ppy.sh/users/443656)
 - ::{ flag=FR }:: [Kasumi-sama](https://osu.ppy.sh/users/6177263)
 - ::{ flag=BR }:: [LeoFLT](https://osu.ppy.sh/users/3668779)
-- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=US }:: [Snowleopard](https://osu.ppy.sh/users/3790227)
 - ::{ flag=FR }:: [ThePooN](https://osu.ppy.sh/users/718454)
 - ::{ flag=US }:: [this1neguy](https://osu.ppy.sh/users/1797189)
@@ -35,4 +38,6 @@ Les personnes désireuses de rejoindre le comité des tournois peuvent nous fair
 
 ## Alumni
 
+- ::{ flag=CA }:: [Azer](https://osu.ppy.sh/users/2155578)
+- ::{ flag=GB }:: [mangomizer](https://osu.ppy.sh/users/1893718)
 - ::{ flag=NL }:: [n0ah](https://osu.ppy.sh/users/3086393)

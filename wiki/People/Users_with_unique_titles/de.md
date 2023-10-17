@@ -1,6 +1,6 @@
 # Benutzer mit einzigartigen Titeln
 
-Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/The_Team#benutzergruppen) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
+Nutzertitel sind in der Regel mit [Benutzergruppen](/wiki/People/User_group) verbunden, aber die unten aufgelisteten Benutzer haben ihre Titel aus anderen Gründen erhalten. Die meisten Titel waren Auszeichnungen für Beiträge oder Errungenschaften, wobei die übrigen Titel Symbole der kultigen oder lustigen osu!-Geschichte sind.
 
 ## Aktuelle Titelverteidiger des World Cups
 
@@ -35,14 +35,14 @@ Gewinner des [CWC 2022](/wiki/Tournaments/CWC/2022) mit dem Nutzertitel **osu!ca
 - ::{ flag=KR }:: [Rells](https://osu.ppy.sh/users/7937519)
 - ::{ flag=KR }:: [Rocma](https://osu.ppy.sh/users/566276)
 
-Gewinner des [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) mit dem Nutzertitel **osu!mania 4K Champion**:
+Gewinner des [MWC 4K 2023](/wiki/Tournaments/MWC/2023_4K) mit dem Nutzertitel **osu!mania 4K Champion**:
 
-- ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095)
-- ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131)
-- ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661)
-- ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031)
-- ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923)
-- ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868)
+- ::{ flag=US }:: [\[LS\]Dev](https://osu.ppy.sh/users/16407268)
+- ::{ flag=US }:: [cafesito](https://osu.ppy.sh/users/7794488)
+- ::{ flag=US }:: [Hello\_Son](https://osu.ppy.sh/users/17308009)
+- ::{ flag=US }:: [Nepijin](https://osu.ppy.sh/users/11734610)
+- ::{ flag=US }:: [PeachMarrow](https://osu.ppy.sh/users/15926730)
+- ::{ flag=US }:: [TristanJacob11](https://osu.ppy.sh/users/11817838)
 
 Gewinner des [MWC 7K 2023](/wiki/Tournaments/MWC/2023_7K) mit dem Nutzertitel **osu!mania 7K Champion**:
 
@@ -122,6 +122,7 @@ Gewinner der vorherigen osu!mania World Cups mit dem Nutzertitel **Former osu!ma
 | [MWC 4K 2020](/wiki/Tournaments/MWC/2020_4K) | Former osu!mania 4K Champion: 2020 | ::{ flag=BR }:: [Guilhermeziat](https://osu.ppy.sh/users/3661387), ::{ flag=BR }:: [Kyut](https://osu.ppy.sh/users/9328824), ::{ flag=BR }:: [Punnies](https://osu.ppy.sh/users/8700468) |
 | [MWC 4K 2021](/wiki/Tournaments/MWC/2021_4K) | Former osu!mania 4K Champion: 2021 | ::{ flag=BR }:: [Amerom](https://osu.ppy.sh/users/5691061), ::{ flag=BR }:: [Lenn](https://osu.ppy.sh/users/11236829), ::{ flag=BR }:: [LeMarcinho](https://osu.ppy.sh/users/13347579), ::{ flag=BR }:: [Lothus](https://osu.ppy.sh/users/9530019), ::{ flag=BR }:: [Orost](https://osu.ppy.sh/users/13601876), ::{ flag=BR }:: [SillyFangirl](https://osu.ppy.sh/users/2288363) |
 | [MWC 7K 2022](/wiki/Tournaments/MWC/2022_7K) | Former osu!mania 7K Champion: 2022 | ::{ flag=KR }:: [0133](https://osu.ppy.sh/users/12346181), ::{ flag=KR }:: [dressurf](https://osu.ppy.sh/users/758406), ::{ flag=KR }:: [Estonians](https://osu.ppy.sh/users/7014697), ::{ flag=KR }:: [yz1155](https://osu.ppy.sh/users/2071008) |
+| [MWC 4K 2022](/wiki/Tournaments/MWC/2022_4K) | Former osu!mania 4K Champion: 2022 | ::{ flag=KR }:: [Flying Samira](https://osu.ppy.sh/users/10329095), ::{ flag=KR }:: [gaesol](https://osu.ppy.sh/users/12452131), ::{ flag=KR }:: [lianic](https://osu.ppy.sh/users/13975661), ::{ flag=KR }:: [Poca](https://osu.ppy.sh/users/8581031), ::{ flag=KR }:: [SuddenDeath](https://osu.ppy.sh/users/6699923), ::{ flag=KR }:: [SnowScent](https://osu.ppy.sh/users/7945868) |
 
 ## Gewinner von offiziellen Mapping-Wettbewerben
 
@@ -174,7 +175,9 @@ Die meisten offiziellen Mapping-Wettbewerbe bieten den Titel **Elite Mapper** al
 
 ## Elite Nominators
 
-Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/The_Team/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/The_Team/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
+*Startseite: [Elite Nominators](/wiki/People/Elite_Nominators)*
+
+Seit 2020 werden Mitglieder der [Beatmap-Nominators](/wiki/People/Beatmap_Nominators) und des [Nomination-Assessment-Teams](/wiki/People/Nomination_Assessment_Team) mit einer außergewöhnlichen Leistung zur Unterstützung des Ranglistensystems in einem bestimmten Jahr mit dem Titel **Elite Nominator** ausgezeichnet. Dieser Titel wird zu Beginn jedes Jahres für Beiträge vergeben, die während dem vergangen Jahr gemacht wurden, und halten etwa ein Jahr lang oder bis der Benutzer das Team verlässt.
 
 - ::{ flag=VN }:: [Akasha-](https://osu.ppy.sh/users/2596306)
 - ::{ flag=US }:: [fieryrage](https://osu.ppy.sh/users/3533958)
@@ -219,51 +222,12 @@ Die Wettbewerbe [osu!trivium Quiz](/wiki/Contests/osu!trivium_Quiz) vergeben ihr
 - ::{ flag=US }:: [Codazen](https://osu.ppy.sh/users/18291144)
 - ::{ flag=MY }:: [squidstain](https://osu.ppy.sh/users/11073207)
 
-## Featured Artists
+## osu!musician
 
-[Featured Artists](/wiki/Featured_Artists) mit osu!-Accounts bekommen den Titel **Featured Artist**, um ihr Engagement zu zeigen.
+Der Titel **osu!musician** wurde an Benutzer für ihre früheren Beiträge zum Sounddesign und den offiziellen Titelsongs von osu! verliehen.
 
-::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) und ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) haben den Titel **osu!musician** für frühere Beiträge zum Sound-Design von osu! und den offiziellen Titelsongs erhalten. ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) entschied sich dafür, den Titel **osu!mixer** zu behalten (welcher inzwischen zu osu!mixer II umgewandelt wurde), als er ein Featured Artist wurde.
-
-| Benutzeraccount | Künstler-Profil |
-| :-- | :-- |
-| ::{ flag=JP }:: [69\_de\_74](https://osu.ppy.sh/users/28700783) | [69 de 74](https://osu.ppy.sh/beatmaps/artists/268) |
-| ::{ flag=JP }:: [A\_\_](https://osu.ppy.sh/users/12011880) | [A?](https://osu.ppy.sh/beatmaps/artists/173) |
-| ::{ flag=US }:: [antiPLUR](https://osu.ppy.sh/users/7318723) | [antiPLUR / Internet Death Machine](https://osu.ppy.sh/beatmaps/artists/24) |
-| ::{ flag=HK }:: [Ardolf](https://osu.ppy.sh/users/12359061) | [Ardolf](https://osu.ppy.sh/beatmaps/artists/263) |
-| ::{ flag=US }:: [BigMoist10](https://osu.ppy.sh/users/20787676) | [The Gentle Men](https://osu.ppy.sh/beatmaps/artists/142) (member of) |
-| ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) | [BilliumMoto](https://osu.ppy.sh/beatmaps/artists/38) |
-| ::{ flag=AT }:: [creosu](https://osu.ppy.sh/users/13958834) | [Creo](https://osu.ppy.sh/beatmaps/artists/36) |
-| ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870) | [cYsmix](https://osu.ppy.sh/beatmaps/artists/2) |
-| ::{ flag=JP }:: [DJ Raisei](https://osu.ppy.sh/users/9892920) | [DJ Raisei](https://osu.ppy.sh/beatmaps/artists/204) |
-| ::{ flag=US }:: [erikmcclure](https://osu.ppy.sh/users/19898921) | [Erik McClure](https://osu.ppy.sh/beatmaps/artists/125) |
-| ::{ flag=NL }:: [happy30](https://osu.ppy.sh/users/27767) | [happy30](https://osu.ppy.sh/beatmaps/artists/317) |
-| ::{ flag=SE }:: [Helblinde](https://osu.ppy.sh/users/48053) | [Helblinde](https://osu.ppy.sh/beatmaps/artists/5), [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) (member of) |
-| ::{ flag=JP }:: [II-L](https://osu.ppy.sh/users/15223576) | [II-L](https://osu.ppy.sh/beatmaps/artists/172) |
-| ::{ flag=JP }:: [kanki2](https://osu.ppy.sh/users/9595391) | [Lime / Kankitsu](https://osu.ppy.sh/beatmaps/artists/116) |
-| ::{ flag=DE }:: [KIRA_old_1](https://osu.ppy.sh/users/2138310) | [KIRA](https://osu.ppy.sh/beatmaps/artists/27) |
-| ::{ flag=RO }:: [kitazawakyouhei](https://osu.ppy.sh/users/15440027) | [Kitazawa Kyouhei](https://osu.ppy.sh/beatmaps/artists/165) |
-| ::{ flag=FR }:: [Kurokotei](https://osu.ppy.sh/users/398275) | [Kurokotei](https://osu.ppy.sh/beatmaps/artists/58) |
-| ::{ flag=KR }:: [LandRoot](https://osu.ppy.sh/users/12715622) | [LandRoot](https://osu.ppy.sh/beatmaps/artists/327) |
-| ::{ flag=MY }:: [Miraie](https://osu.ppy.sh/users/6483437) | [miraie](https://osu.ppy.sh/beatmaps/artists/162) |
-| ::{ flag=KR }:: [Nakagawa-Kanon](https://osu.ppy.sh/users/87065) | [Rabbit House](https://osu.ppy.sh/beatmaps/artists/242) |
-| ::{ flag=JP }:: [nakanojojo](https://osu.ppy.sh/users/10631848) | [Nakanojojo](https://osu.ppy.sh/beatmaps/artists/25) |
-| ::{ flag=JP }:: [Namirin](https://osu.ppy.sh/users/2264828) | [\*namirin](https://osu.ppy.sh/beatmaps/artists/18) |
-| ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102) | [nekodex](https://osu.ppy.sh/beatmaps/artists/1) |
-| ::{ flag=US }:: [niu arx](https://osu.ppy.sh/users/5983379) | [niu arx / Dictate](https://osu.ppy.sh/beatmaps/artists/21) |
-| ::{ flag=US }:: [onumi](https://osu.ppy.sh/users/11204867) | [onumi](https://osu.ppy.sh/beatmaps/artists/32) |
-| ::{ flag=CA }:: [Redside](https://osu.ppy.sh/users/16039046) | [Redside](https://osu.ppy.sh/beatmaps/artists/184) |
-| ::{ flag=US }:: [Ritorikal](https://osu.ppy.sh/users/8061786) | [Ritorikal](https://osu.ppy.sh/beatmaps/artists/305) |
-| ::{ flag=PH }:: [rtnario](https://osu.ppy.sh/users/16222702) | [LEAF XCEED Music Division](https://osu.ppy.sh/beatmaps/artists/88) |
-| ::{ flag=GB }:: [SAMString](https://osu.ppy.sh/users/7273976) | [SAMString](https://osu.ppy.sh/beatmaps/artists/273) |
-| ::{ flag=US }:: [skymuted](https://osu.ppy.sh/users/7734050) | [Fractal Dreamers](https://osu.ppy.sh/beatmaps/artists/15) |
-| ::{ flag=ES }:: [sotuiofficial](https://osu.ppy.sh/users/14779258) | [Rising Sun Traxx](https://osu.ppy.sh/beatmaps/artists/41) (founder) |
-| ::{ flag=KR }:: [thenewlimee](https://osu.ppy.sh/users/7802935) | [Raimukun](https://osu.ppy.sh/beatmaps/artists/247) |
-| ::{ flag=RU }:: [tieff](https://osu.ppy.sh/users/89619) | [tieff](https://osu.ppy.sh/beatmaps/artists/34) |
-| ::{ flag=CA }:: [VINXIS](https://osu.ppy.sh/users/4323406) | [VINXIS](https://osu.ppy.sh/beatmaps/artists/22) |
-| ::{ flag=JP }:: [xorsizer](https://osu.ppy.sh/users/20466752) | [Symholic](https://osu.ppy.sh/beatmaps/artists/130) (member of) |
-| ::{ flag=TH }:: [YuugenP](https://osu.ppy.sh/users/2014016) | [rN](https://osu.ppy.sh/beatmaps/artists/190) |
-| ::{ flag=US }:: [Zenpakuwu](https://osu.ppy.sh/users/13226945) | [Zenpaku](https://osu.ppy.sh/beatmaps/artists/190) |
+- ::{ flag=NO }:: [cYsmix](https://osu.ppy.sh/users/272870)
+- ::{ flag=AU }:: [nekodex](https://osu.ppy.sh/users/102)
 
 ## Gewinner des Maskottchen-Design-Wettbewerbs
 
@@ -301,15 +265,21 @@ Diese Storyboarder haben den Titel **Elite Storyboarder** dafür überreicht bek
 
 ## Auf das Spiel bezogen
 
-Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte Errungenschaft im Spiel oder durch Abschluss einer spezifischen  Herausforderung vergeben.
+*Siehe auch: [Completionists](/wiki/People/Completionists)*
+
+Diesen Spielern wurden ihre entsprechenden Titel entweder durch eine verrückte Errungenschaft im Spiel oder durch Abschluss einer spezifischen Herausforderung vergeben.
 
 | Benutzer | Titel | Errungenschaft |
 | :-- | :-- | :-- |
 | ::{ flag=NO }:: [-GN](https://osu.ppy.sh/users/895581) | Champion Above Champions | Hat die erste NoMod FC auf [Shotgun Symphony+ [Impossibly Intense]](https://osu.ppy.sh/beatmapsets/7671#osu/32570) erreicht |
+| ::{ flag=US }:: [EEEEEEEEEEEEEEE](https://osu.ppy.sh/users/2927048) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 15. März 2023 |
 | ::{ flag=AU }:: [Jaye](https://osu.ppy.sh/users/4841352) | Drum Decimator | Erreichte FCs auf allen gerankten osu!taiko-Beatmaps ab dem 3. November 2019 |
+| ::{ flag=PL }:: [Przegrany](https://osu.ppy.sh/users/7635621) | osu!completionist | Spielte alle gerankten osu!-Beatmaps ab dem 11. August 2021 |
 | ::{ flag=NL }:: [Shirotora_old](https://osu.ppy.sh/users/11820) | Bested the Reaper's Game | Wurde durch ::{ flag=CA }:: [awp](https://osu.ppy.sh/users/2650) Ende 2008 überreicht für das Erreichen des Rangs #104 in einer Woche, als eine Referenz auf [*The World Ends with You*](https://de.wikipedia.org/wiki/The_World_Ends_with_You) <!-- source: https://osu.ppy.sh/community/forums/posts/60664 (Shirotora_old's forum signature) --> |
 | ::{ flag=US }:: [xasuma](https://osu.ppy.sh/users/3172980) | The First Completionist | Spielte alle gerankten osu!-Beatmaps ab dem 27. April 2019 |
-| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | Gewann [The Hunt for the Girl in the Forest](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=DE }:: [Zetera](https://osu.ppy.sh/users/587737) | Medal Hunter | War die [erste Person, die die Medaille *The Girl in the Forest* freischaltete](https://osu.ppy.sh/community/forums/topics/662279) |
+| ::{ flag=US }:: [UberFazz](https://osu.ppy.sh/users/8646059) | Medal Hunter | War die [erste Person, die die Medaille *Internment* freischaltete](https://twitter.com/osugame/status/1696007320663359800) |
+| ::{ flag=FI }:: [Tactic](https://osu.ppy.sh/users/6291386) | Prince of Disco | Erreichte den maximal möglichen Punktestand auf [Kenji Ninuma - DISCO★PRINCE](https://osu.ppy.sh/beatmapsets/1) für einen unschlagbaren ersten Platz auf der Rangliste |
 
 ## Mitwirkende
 
@@ -351,7 +321,7 @@ Diese Nutzer bekamen ihre entsprechenden Titel aus verschiedenen Gründen.
 ## Anmerkungen
 
 [^mao-note]: ::{ flag=DE }:: [Mao](https://osu.ppy.sh/users/2204515) wurde stattdessen mit dem Titel **Elite Mapper II** ausgezeichnet, da er den den Titel "Elite Mapper" auf zwei verschiedene Arten erfolgreich erworben hat: Das Gewinnen des Wettbewerbs [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) und das Überschreiten der 6-Punkte-Schwelle im neuen [monatlichen Beatmapping-Wettbewerbs](/wiki/Contests/Monthly_Beatmapping_Contest)-System.
+[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) und ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) wurden stattdessen mit dem Titel **Elite Nominator II** ausgezeichnet, da sie zwei Jahre in Folge als Elite Nominators betitelt wurden.
 [^charles445-note]: ::{ flag=US }:: [Charles445](https://osu.ppy.sh/users/85000) wurde stattdessen mit dem Titel **Elite Mapper II: Aspirant** ausgezeichnet, da er sowohl den [Monthly Beatmapping Contest #1](https://osu.ppy.sh/home/news/2013-10-20-monthly-beatmapping-contest-1-results) als auch den [Monthly Beatmapping Contest: Aspire (2014)](https://osu.ppy.sh/home/news/2014-11-13-monthly-beatmapping-contest-aspire-results) gwonnen hatte.
 [^billiummoto-note]: ::{ flag=US }:: [BilliumMoto](https://osu.ppy.sh/users/3862471) wurde stattdessen mit dem Titel **osu!mixer II** ausgezeichnet, da er sowohl den [osu!remix contest #1](https://osu.ppy.sh/home/news/2016-08-29-osuremix-contest-1-results) und den Wettbwerb [A Labour of Love](/wiki/Contests/A_Labour_of_Love_Contest) gewonnen hatte.
 [^yf-note]: ::{ flag=CN }:: [yf_bmp](https://osu.ppy.sh/users/1243669) wurde stattdessen mit dem Titel **Elite Storyboarder II** ausgezeichnet, da er [den Titel bereits erworben hatte](https://osu.ppy.sh/home/news/2021-03-19-community-contributors-2020) aufgrund von herausragenden Beiträgen zur Storyboarding-Szene und da er den Wettbewerb [triangles Beatmapping Contest](/wiki/Contests/triangles_Beatmapping_Contest) gewann.
-[^elite-note]: ::{ flag=TN }:: [Hivie](https://osu.ppy.sh/users/14102976) und ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) wurden stattdessen mit dem Titel **Elite Nominator II** ausgezeichnet, da sie zwei Jahre in Folge als Elite Nominators betitelt wurden.

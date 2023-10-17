@@ -1,6 +1,11 @@
+---
+outdated_translation: true
+outdated_since: d05af022f7fbdcb7eb5b24cc0abc39f0b81d5642
+---
+
 # Project Loved
 
-Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/The_Team/Project_Loved_Team).
+Le **Project Loved** est la plateforme de vote qui promeut les beatmaps dans la catégorie [loved](/wiki/Beatmap/Category#loved). Il est géré principalement par la [Project Loved Team](/wiki/People/Project_Loved_Team).
 
 ## Déplacer une beatmap vers la catégorie loved
 
@@ -15,7 +20,14 @@ Pour soumettre une beatmap pour la catégorie loved, veuillez visiter la [page d
 - [Proposition pour le mode osu!catch](https://loved.sh/submissions/fruits)
 - [Proposition pour le mode osu!mania](https://loved.sh/submissions/mania)
 
-Les beatmaps nominées sont ensuite publiées sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "loved" ou non. Les beatmaps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved.
+Les beatmaps nominées sont ensuite publiées sur le forum [Project Loved](https://osu.ppy.sh/community/forums/120), où les membres de la communauté peuvent voter s'ils souhaitent que la beatmap soit "Loved" ou non. Les beatmaps qui atteignent un certain pourcentage de votes positifs à la fin du scrutin sont transférées dans la catégorie Loved :
+
+| Mode de jeu | Pourcentage requit |
+| :-- | :-- |
+| osu! | 85% |
+| osu!taiko | 80% |
+| osu!catch | 80% |
+| osu!mania | 80% |
 
 ## Éligibilité
 
@@ -30,11 +42,11 @@ Bien que de nombreuses beatmaps En Attente et Work-in-progress répondent à ces
 
 Les beatmaps entrant dans la catégorie loved doivent respecter des règles supplémentaires :
 
-- [Certains points de la section Métadonnées des critères de classement](/wiki/Ranking_Criteria#metadata)
+- [Certains points de la section Métadonnées des critères de classement](/wiki/Ranking_criteria#metadata)
   - Le titre de la musique, l'artiste ainsi que la source doivent-être correcte dans tous les cas.
   - Les tags de la beatmap doivent mentionner correctement tous les contributeurs (guest difficulties, créateurs, storyboarders, etc.)
-- [Les règles relatives au contenu des musiques](/wiki/Rules/Song_Content_Rules)
-- [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_Content_Considerations)
+- [Les règles relatives au contenu des musiques](/wiki/Rules/Song_content_rules)
+- [Les considérations relatives au contenu visuel](/wiki/Rules/Visual_content_considerations)
 
 En outre, afin de maintenir la qualité audio de la musique à un niveau raisonnable, les fichiers audio des beatmaps doivent avoir un débit binaire moyen d'au moins 128 kbps.
 

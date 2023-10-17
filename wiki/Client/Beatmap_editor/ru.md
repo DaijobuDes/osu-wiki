@@ -15,7 +15,7 @@
 
 ## Compose
 
-[Compose](/wiki/Client/Beatmap_editor/Compose) — область, где располагаются все [игровые объекты](/wiki/Hit_object) и прочие относящиеся к геймплею вещи. Мапперы проводят большую часть своего времени именно тут.
+[Compose](/wiki/Client/Beatmap_editor/Compose) — область, где располагаются все [игровые объекты](/wiki/Gameplay/Hit_object) и прочие относящиеся к геймплею вещи. Мапперы проводят большую часть своего времени именно тут.
 
 ## Design
 
@@ -27,7 +27,7 @@
 
 ## Song setup
 
-[Song setup](/wiki/Client/Beatmap_editor/Song_Setup) даёт возможность заполнить [метаданные](/wiki/Client/Beatmap_editor/Song_Setup#song-and-map-meta-data) [карты](/wiki/Beatmap) и прочие настройки, которые относятся к ней целиком. Сюда относятся название песни и её исполнителя, название сложности, комбо-цвета и т.д.
+[Song setup](/wiki/Client/Beatmap_editor/Song_setup) даёт возможность заполнить [метаданные](/wiki/Client/Beatmap_editor/Song_setup#song-and-map-meta-data) [карты](/wiki/Beatmap) и прочие настройки, которые относятся к ней целиком. Сюда относятся название песни и её исполнителя, название сложности, комбо-цвета и т.д.
 
 ## Прочие компоненты
 

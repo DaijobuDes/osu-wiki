@@ -9,27 +9,27 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 4 de Beatmaps Destacados (Primavera 2021)
+# Temporada 4 de Beatmaps Spotlights (Primavera 2021)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 29 abr. 2021 |
-| Sala temporal: Lista de juego A | 3 may. - 10 may. 2021 |
-| Sala temporal: Lista de juego B | 10 may. - 17 may. 2021 |
-| Sala temporal: Lista de juego C | 17 may. - 24 may. 2021 |
-| Sala temporal: Lista de juego D | 24 may. - 31 may. 2021 |
+| Sala temporal: Playlist A | 3 may. - 10 may. 2021 |
+| Sala temporal: Playlist B | 10 may. - 17 may. 2021 |
+| Sala temporal: Playlist C | 17 may. - 24 may. 2021 |
+| Sala temporal: Playlist D | 24 may. - 31 may. 2021 |
 | Descanso | 31 may. - 7 jun. 2021 |
-| Sala temporal: Lista de juego A | 7 jun. - 14 jun. 2021 |
-| Sala temporal: Lista de juego B | 14 jun. - 21 jun. 2021 |
-| Sala temporal: Lista de juego C | 21 jun. - 28 jun. 2021 |
-| Sala temporal: Lista de juego D | 28 jun. - 5 jul. 2021 |
+| Sala temporal: Playlist A | 7 jun. - 14 jun. 2021 |
+| Sala temporal: Playlist B | 14 jun. - 21 jun. 2021 |
+| Sala temporal: Playlist C | 21 jun. - 28 jun. 2021 |
+| Sala temporal: Playlist D | 28 jun. - 5 jul. 2021 |
 | Conclusión de la temporada | 5 jul. 2021 |
 
 ## Salas multijugador semanales
 
-A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Cada semana de una temporada, se abre una sola sala multijugador temporal. Todos pueden participar durante toda la semana.
    - Habrá un intervalo de una semana, después del cual las salas para cada lista de juego se abrirán nuevamente semanalmente.

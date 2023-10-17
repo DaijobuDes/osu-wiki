@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: 151284869cc3b4ce15b04d85ee973290887950df
+---
+
 # Mise en forme
 
 *Pour les normes de rédaction, voir : [Critères de mise en forme d'article/Rédaction](../Writing)*\
@@ -360,16 +365,16 @@ Les titres de section ne doivent pas sauter un niveau de titre (c'est-à-dire ne
 Il est possible de redéfinir l'identifiant d'une section, qui est utilisé pour y accéder directement. Les identifiants personnalisés doivent être utilisés dans le cas où ceux générés automatiquement sont trop longs ou contiennent des signes de ponctuation ou des images complexes :
 
 ```markdown
-## Mon délai de réflexion est passé. Comment puis-je faire appel ? {#appel}
+## Mon délai de réflexion est passé. Comment puis-je faire appel ? {id=appel}
 
-## Raisons de restriction communes et cooldowns {#raisons-communes}
+## Raisons de restriction communes et cooldowns {id=raisons-communes}
 ```
 
 Cette fonction peut également être utilisée pour baliser une partie spécifique de l'article qui n'a pas de titre. Utilisez-la avec parcimonie :
 
 ```markdown
 > Voilà, c'est fait ! Vous êtes sur la bonne voie pour devenir un champion du rythme d'osu!
-{#citation-tutoriel}
+{id=citation-tutoriel}
 ```
 
 ## Listes
@@ -523,7 +528,7 @@ Il existe deux types de liens : en ligne et de référence. Les liens en ligne o
 Voici un exemple des deux styles en ligne :
 
 ```markdown
-[Modificateurs de jeu](/wiki/Game_modifier)
+[Modificateurs de jeu](/wiki/Gameplay/Game_modifier)
 
 <https://osu.ppy.sh/home>
 ```
@@ -571,8 +576,8 @@ Voici de bons exemples :
 
 ```markdown
 [Critères de style des articles](/wiki/Article_styling_criteria)
-[Developers](/wiki/People/The_Team/Developers)
-[Developers](/wiki/People/The_Team/Developers#game-client-developers)
+[Developers](/wiki/People/Developers)
+[Developers](/wiki/People/Developers#game-client-developers)
 ```
 
 *Remarque : ne pas traduire les liens entre parenthèses, sinon la redirection ne fonctionnera plus.*
@@ -592,7 +597,7 @@ Les liens Wiki qui pointent vers un sous-article doivent inclure le nom du dossi
 Les liens Wiki qui pointent vers une section d'un article peuvent utiliser le symbole du signe de section (`§`). Voir l'exemple suivant :
 
 ```markdown
-*Pour les règles de timing, voir : [Ranking Criteria § Timing](/wiki/Ranking_Criteria#timing)*
+*Pour les règles de timing, voir : [Ranking Criteria § Timing](/wiki/Ranking_criteria#timing)*
 ```
 
 #### Autres liens osu!

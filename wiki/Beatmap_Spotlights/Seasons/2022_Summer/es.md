@@ -9,24 +9,24 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 7 de Beatmaps Destacados (Verano 2022)
+# Temporada 7 de Beatmaps Spotlights (Verano 2022)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 11 ago. 2022 |
-| Sala de lista de juego: Lista de juego A | 11 ago. - 25 ago. 2022 |
-| Sala de lista de juego: Lista de juego B | 25 ago. - 8 sept. 2022 |
-| Sala de lista de juego: Lista de juego C | 8 sept. - 22 sept. 2022 |
-| Sala de lista de juego: Lista de juego A | 22 sept. - 29 sept. 2022 |
-| Sala de lista de juego: Lista de juego B | 29 sept. - 6 oct. 2022 |
-| Sala de lista de juego: Lista de juego C | 6 oct. - 13 oct. 2022 |
+| Sala de lista de juego: Playlist A | 11 ago. - 25 ago. 2022 |
+| Sala de lista de juego: Playlist B | 25 ago. - 8 sept. 2022 |
+| Sala de lista de juego: Playlist C | 8 sept. - 22 sept. 2022 |
+| Sala de lista de juego: Playlist A | 22 sept. - 29 sept. 2022 |
+| Sala de lista de juego: Playlist B | 29 sept. - 6 oct. 2022 |
+| Sala de lista de juego: Playlist C | 6 oct. - 13 oct. 2022 |
 | Conclusión de la temporada | 13 oct 2022 |
 
 ## Salas multijugador semanales
 
-A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Cada 2 semanas de una temporada, se abre una sola sala de lista de juego. Todos pueden participar durante las dos semanas.
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.

@@ -2,13 +2,15 @@
 tags:
   - history
   - historia
+outdated_translation: true
+outdated_since: 5a98d627b0d81c69ab200df06feb80432ce7b24b
 ---
 
 # Registro de cambios
 
-El **[registro de cambios](https://osu.ppy.sh/home/changelog)** es una página donde el [equipo de desarrollo de osu!](/wiki/People/The_Team/Developers) detallan sus mejoras, adiciones y correcciones de errores día a día al juego. Todos los cambios de versiones anteriores se registran aquí con fines de archivo.
+El **[registro de cambios](https://osu.ppy.sh/home/changelog)** es una página donde el [equipo de desarrollo de osu!](/wiki/People/Developers) detallan sus mejoras, adiciones y correcciones de errores día a día al juego. Todos los cambios de versiones anteriores se registran aquí con fines de archivo.
 
-Los registros de cambios para el sitio web y osu!(lazer) se generan automáticamente en función de las versiones de GitHub de esos proyectos, mientras que el resto se mantiene manualmente.
+Los registros de cambios para el sitio web y [osu!(lazer)](/wiki/Client/Release_stream/Lazer) se generan automáticamente en función de las versiones de GitHub de esos proyectos, mientras que el resto se mantiene manualmente.
 
 ## Historia
 

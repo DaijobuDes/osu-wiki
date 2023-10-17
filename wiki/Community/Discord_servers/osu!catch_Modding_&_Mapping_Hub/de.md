@@ -21,15 +21,15 @@ Der Server besteht hauptsächlich aus:
 - Kanälen, um Anfragen nach Mods, Gastschwierigkeitsgraden, Nominierungen oder andere auf Mapping bezogene Anfragen zu stellen.
 - Kanälen, in denen Nutzer auf Mapping bezogene Fragen stellen können, die von erfahrenen Mappern beantwortet werden können.
 - einem Platz für das Teilen von Modding-Queues, um mehr Erfahrung zu sammeln.
-- einem zentralen Ort, um den Status der [Beatmap Nominators](/wiki/People/The_Team/Beatmap_Nominators) zu erfahren.
+- einem zentralen Ort, um den Status der [Beatmap Nominators](/wiki/People/Beatmap_Nominators) zu erfahren.
 - einer Liste an nützlichen Ressourcen wie Tools, RC-Vorschlägen und anderen Discord-Servern.
 
 ## Personal
 
 | Rolle | Benutzer (Discord-ID) |
 | :-- | :-- |
-| Server-Eigentümer | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599) |
-| Administratoren | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (Rustyy#2330), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (ascendance#7599), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (Bastian#9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565)(Deif#1111), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (Greaper#0001), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (JBHyperion#9178), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (Jemzuu#2751), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (Andrew#2539), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (Guille#1111) |
+| Server-Eigentümer | ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (@ascendance) |
+| Administratoren | ::{ flag=PH }:: [-Rustyy](https://osu.ppy.sh/users/16355636) (@rastei), ::{ flag=US }:: [Ascendance](https://osu.ppy.sh/users/2931883) (@ascendance), ::{ flag=CL }:: [Bastian](https://osu.ppy.sh/users/6345176) (@bastian9611), ::{ flag=ES }:: [Deif](https://osu.ppy.sh/users/318565) (@deif), ::{ flag=NL }:: [Greaper](https://osu.ppy.sh/users/2369776) (@greaper), ::{ flag=GB }:: [JBHyperion](https://osu.ppy.sh/users/4879508) (@jbhyperion), ::{ flag=PH }:: [Jemzuu](https://osu.ppy.sh/users/7890134) (@jemzuu), ::{ flag=US }:: [Secre](https://osu.ppy.sh/users/2306637) (@secrectb), ::{ flag=CL }:: [ZiRoX](https://osu.ppy.sh/users/200768) (@guille) |
 
 ## Verifizierung
 

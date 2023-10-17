@@ -9,24 +9,24 @@ tags:
   - Destacados de temporada
 ---
 
-# Temporada 8 de Beatmaps Destacados (Invierno 2023)
+# Temporada 8 de Beatmaps Spotlights (Invierno 2023)
 
 ## Calendario
 
 | Evento | Fecha |
 | :-- | :-- |
 | Inicio de la temporada | 6 dic. 2022 |
-| Sala de lista de juego: Lista de juego A | 6 dic. - 20 dic. 2022 |
-| Sala de lista de juego: Lista de juego B | 20 dic. - 3 ene. 2023 |
-| Sala de lista de juego: Lista de juego C | 3 ene. 2022 - 17 ene. 2023 |
-| Sala de lista de juego: Lista de juego A | 17 ene. - 24 ene. 2023 |
-| Sala de lista de juego: Lista de juego B | 24 ene. - 31 ene. 2023 |
-| Sala de lista de juego: Lista de juego C | 31 ene. - 7 feb. 2023 |
+| Sala de lista de juego: Playlist A | 6 dic. - 20 dic. 2022 |
+| Sala de lista de juego: Playlist B | 20 dic. - 3 ene. 2023 |
+| Sala de lista de juego: Playlist C | 3 ene. 2022 - 17 ene. 2023 |
+| Sala de lista de juego: Playlist A | 17 ene. - 24 ene. 2023 |
+| Sala de lista de juego: Playlist B | 24 ene. - 31 ene. 2023 |
+| Sala de lista de juego: Playlist C | 31 ene. - 7 feb. 2023 |
 | Conclusión de la temporada | 7 feb. 2023 |
 
 ## Salas multijugador semanales
 
-A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](https://github.com/ppy/osu/releases).
+A partir de ahora, unirse a las salas multijugador semanales requiere que los participantes descarguen e instalen [osu!(lazer)](/wiki/Client/Release_stream/Lazer).
 
 1. Cada 2 semanas de una temporada, se abre una sola sala de lista de juego. Todos pueden participar durante las dos semanas.
    - Después de la primera ola de salas, las listas de juego se abrirán nuevamente semanalmente.

@@ -1,5 +1,7 @@
 ---
 outdated: true
+outdated_translation: true
+outdated_since: 1ef63c7a78e0aed007a64cef508872abf9c5c123
 ---
 
 # История osu!
@@ -24,5 +26,5 @@ outdated: true
 - [История osu! wiki](osu!_wiki)
 - [История первоапрельских шуток osu!](April_Fools)
 - [История онлайн-ранкингов](Online_rankings)
-- [История команд osu!](/wiki/People/The_Team/Staff_Log)
+- [История команд osu!](/wiki/People/Staff_log)
 - [История турниров osu!](/wiki/Tournaments)
