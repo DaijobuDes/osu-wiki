@@ -320,6 +320,7 @@ This competition has come to an end and resulted in the following podium:
   - Winner of the match played previously between the tied teams.
 
 ### Match Regulations
+
 1. Each player is allowed (but not required) to have a warm-up with length below 2:50. Players may request to use DoubleTime if the map length is slightly above the restriction. The players must give the map link to their referee 30 minutes before their match. Otherwise, the player's warm-up is skipped.
 2. A referee will create a private multiplayer lobby 15 minutes in advance. They will be notifying and sending invites to players near match time. The match can be postponed up to 10 minutes.
 3. Win by default, or WBD, is considered a win without losses (5:0) in favor of the present player. If a player is absent, the other player may either reschedule the match or take the WBD. If both players are absent, both players may either reschedule the match or agree for the higher-seeded player to take the WBD.
